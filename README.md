@@ -1,3 +1,4 @@
 ## PrimeFactor
 ---
+PrimeFactor
 TDD KATA
